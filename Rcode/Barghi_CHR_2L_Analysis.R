@@ -7,7 +7,7 @@
 
 library('poolSeq')
 
-## Downloaded the main genomic data file from:
+## Downloaded the main gen  omic data file from:
 #https://datadryad.org/stash/downloads/file_stream/14282
 
 #Awk command to filter on CHR value / kept 2L only
